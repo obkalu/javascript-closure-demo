@@ -1,0 +1,11 @@
+{
+  "name": "javascript-closures",
+  "version": "1.0.0",
+  "description": "A simple demo on the concept of Closures in Javascript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Obinna",
+  "license": "MIT"
+}
